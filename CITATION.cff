@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "ERMM-Chart designer: interactive design of a robust EWMA Max-M control chart"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/ahsan4th/ERMM-Chart"
+authors:
+  - family-names: Radjid
+    given-names: Samin
+  - family-names: Ahsan
+    given-names: Muhammad
+    email: muh.ahsan@its.ac.id
+    affiliation: "Institut Teknologi Sepuluh Nopember"
+  - name: Wibawati
+  - family-names: Lee
+    given-names: Muhammad Hisyam
+keywords: [statistical process control, robust control chart, EWMA, Max-M chart, Fast-MCD, cement]
