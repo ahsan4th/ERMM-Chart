@@ -1,0 +1,6 @@
+characteristic,process_unit,first_check
+Blaine,Separator and mill load,"Separator speed, mill throughput, grinding media charge, mill ventilation"
+Residue45,Separator and mill load,"Separator speed and efficiency, mill throughput, grinding media wear"
+SO3,Gypsum weigh feeder,"Gypsum feed rate, feeder calibration, gypsum moisture"
+FreeLime,Kiln (clinker burning),"Burning zone temperature, raw meal fineness and chemistry, clinker cooling"
+LOI,Clinker and cement storage,"Clinker age and moisture ingress, carbonation in silos, mineral additions"

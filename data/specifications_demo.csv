@@ -1,0 +1,6 @@
+characteristic,unit,LSL,target,USL,source
+Blaine,m2/kg,305,,,illustrative internal limit (about 3 robust SD from the demo centre; replace with plant value)
+Residue45,%,,,18.0,illustrative internal limit (about 3 robust SD from the demo centre; replace with plant value)
+FreeLime,%,,,1.30,illustrative internal limit (about 3 robust SD from the demo centre; replace with plant value)
+LOI,%,,,5.0,SNI 2049:2015 Type I maximum
+SO3,%,1.40,,2.20,illustrative internal limits (about 3 robust SD from the demo centre; replace with plant values)
